@@ -23,8 +23,10 @@ Built for agencies, SaaS, startups, and enterprises, Sylify focuses on:
 - clean layout hierarchy  
 - dark mode elegance
 
-### 📦 What You Get
-**5 complete websites in 1 package**, each available in **6 professional color themes**.
+## 📦 **Package Includes**
+- **5 complete multi-page websites** in 1 package
+- **6 professional color themes** for each website
+- Designed for **agencies, SaaS, startups, corporate teams, and enterprise products**
 
 If you need a **high-end business website** without hiring designers or frontend developers, Sylify gives you a ready-made, production-grade solution.
 
