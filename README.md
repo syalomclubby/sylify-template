@@ -135,12 +135,6 @@ Sylify gives you a professional website base **ready in minutes**, not weeks.
 
 ---
 
-## GitHub Topics
-
-`tailwind` `tailwindcss` `template` `website-template` `business-template` `saas-template` `landing-page` `corporate-ui` `html-template` `dark-mode` `ui-kit`
-
----
-
 ## License
 This repository contains **preview assets only**.  
 Full licensed source code is distributed only through TemplateMonster.
