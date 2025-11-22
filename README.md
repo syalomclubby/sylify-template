@@ -45,22 +45,22 @@ If you need a **high-end business website** without hiring designers or frontend
 *A visual-first template designed with premium clarity.*
 
 ### **Homepage**
-<img src="./preview/sylify-screenshot-1.jpg" width="100%" />
+<img src="./preview/sylify-screenshot-1.png" width="100%" />
 
 ---
 
 ### **About / Company Profile**
-<img src="./preview/sylify-screenshot-3.jpg" width="100%" />
+<img src="./preview/sylify-screenshot-3.png" width="100%" />
 
 ---
 
 ### **Services / Solutions**
-<img src="./preview/sylify-screenshot-4.jpg" width="100%" />
+<img src="./preview/sylify-screenshot-4.png" width="100%" />
 
 ---
 
 ### **Pricing (Glassmorphism Variant)**
-<img src="./preview/sylify-screenshot-5.jpg" width="100%" />
+<img src="./preview/sylify-screenshot-5.png" width="100%" />
 
 > Note: This repository contains **visual previews only**.  
 > Full source code is available exclusively on TemplateMonster.
