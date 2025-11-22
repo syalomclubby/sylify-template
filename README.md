@@ -1,13 +1,24 @@
+# Sylify — Premium Tailwind Corporate Website Template
+Modern. Elegant. Enterprise‑Ready.
+
 <div align="center">
   <img src="./preview/hero.jpg" alt="Sylify Template Hero Preview" width="920">
 </div>
 
-# Sylify — Premium Tailwind Corporate Website Template  
-Modern. Elegant. Enterprise-Ready.
+<p align="center">
+  <a href="https://www.sylify.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Online-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.templatemonster.com/website-templates/sylify-modern-multipurpose-website-templates-543980.html" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20on%20TemplateMonster-%F0%9F%9A%9A-orange?style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://www.sylify.xyz" target="_blank"><strong>🚀 Live Demo</strong></a> •
-  <a href="https://www.templatemonster.com/website-templates/sylify-modern-multipurpose-website-templates-543980.html" target="_blank"><strong>🛒 Buy on TemplateMonster</strong></a>
+  <img src="https://img.shields.io/github/stars/frontsyl/sylify?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/frontsyl/sylify?style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Preview%20Only-lightgrey?style=flat-square" />
 </p>
 
 ---
@@ -17,75 +28,75 @@ Modern. Elegant. Enterprise-Ready.
 **Sylify** is a premium **corporate & business website template** meticulously crafted with **Tailwind CSS v4**.  
 Built for agencies, SaaS, startups, and enterprises, Sylify focuses on:
 
-- pixel-perfect structure  
-- 100vh premium hero sections  
-- modern blue/white corporate aesthetic  
-- clean layout hierarchy  
+- pixel-perfect structure
+- 100vh premium hero sections
+- modern blue/white corporate aesthetic
+- clean layout hierarchy
 - dark mode elegance
 
-## 📦 **Package Includes**
-- **5 complete multi-page websites** in 1 package
+## 📦 Package Includes
+- **5 complete multi‑page websites** in 1 package
 - **6 professional color themes** for each website
 - Designed for **agencies, SaaS, startups, corporate teams, and enterprise products**
 
-If you need a **high-end business website** without hiring designers or frontend developers, Sylify gives you a ready-made, production-grade solution.
+If you need a **high-end business website** without designers or frontend developers, Sylify gives you a production‑grade solution.
 
 ---
 
 ## ✨ Key Features
 
-- ⚡ **Powered by Tailwind CSS v4**  
-- 🌙 **Modern Dark Mode Included**  
-- 📱 Fully responsive across all devices  
-- 🧩 Pixel-perfect premium layout  
-- 🎨 Enterprise-grade UI design (blue / navy / white)  
-- 🏢 Ideal for Business, Corporate, SaaS, and Agencies  
-- 🔍 SEO-optimized structure  
-- 🚀 Fast-loading, clean HTML  
-- 🧭 100vh Hero & polished section spacing  
+- ⚡ **Powered by Tailwind CSS v4**
+- 🌙 **Modern Dark Mode Included**
+- 📱 Fully responsive across all devices
+- 🧩 Pixel-perfect premium layout
+- 🎨 Enterprise-grade UI design
+- 🏢 Ideal for Business, Corporate, SaaS, and Agencies
+- 🔍 SEO‑optimized structure
+- 🚀 Fast-loading, clean HTML
+- 🧭 100vh Hero & premium spacing
 
 ---
 
-## 📸 Template Previews  
-*A visual-first template designed with premium clarity.*
+## 📸 Template Previews
+*A visual-first template built with premium clarity.*
 
-### **Hero Section – Premium SaaS Dashboard Layout**
+### Hero Section – Premium SaaS Dashboard Layout
 <img src="./preview/sylify-screenshot-1.png" width="100%" />
 
 ---
 
-### **Pricing Section – Glassmorphism Cards**
+### Pricing Section – Glassmorphism Cards
 <img src="./preview/sylify-screenshot-3.png" width="100%" />
 
 ---
 
-### **Business Hero – Corporate Landing Layout**
+### Business Hero – Corporate Landing Layout
 <img src="./preview/sylify-screenshot-4.png" width="100%" />
 
 ---
 
-### **Contact Section – Clean & Minimal Interaction UI**
+### Contact Section – Clean & Minimal UI
 <img src="./preview/sylify-screenshot-5.png" width="100%" />
 
-> Note: This repository contains **visual previews only**.  
+> This repository contains **visual previews only**.  
 > Full source code is available exclusively on TemplateMonster.
 
 ---
 
 ## 💼 Why Choose Sylify?
 
-### **1. Built for Real Business Needs**  
-Every section—from hero to pricing—follows real corporate UX patterns used by top enterprise templates (Metronic, Cuba Tailwind, Canvas).
+### 1. Built for Real Business Needs
+Based on enterprise UX patterns used by **Metronic**, **Cuba Tailwind**, and **Canvas**.
 
-### **2. Ultra-Premium Layout Quality**  
-Consistent spacing, elegant dark mode, clean typography, smooth visual hierarchy, and modern color contrast.
+### 2. Ultra‑Premium Layout Quality
+Consistent spacing, luxury dark mode, modern typography, and professional color contrast.
 
-### **3. Save Time, Cost, and Complexity**  
-You skip:  
-❌ designer fees  
-❌ frontend development  
-❌ layout revisions  
-❌ building everything from scratch  
+### 3. Save Time, Cost, and Complexity
+You skip:
+- ❌ designer fees
+- ❌ frontend development
+- ❌ endless revisions  
+- ❌ starting from zero
 
 Sylify gives you a professional website base **ready in minutes**, not weeks.
 
@@ -93,57 +104,49 @@ Sylify gives you a professional website base **ready in minutes**, not weeks.
 
 ## 📦 What’s Included in the Full Version?
 
-- Full Tailwind CSS 4 source code  
-- Elegant light & dark mode presets  
-- Corporate hero + CTA  
-- Services / Features  
-- Pricing glassmorphism  
-- Testimonials  
-- About / Story section  
-- Contact UI  
-- Mobile-optimized navigation  
-- Tailwind variable theming  
-- Clean semantic HTML  
-- AOS & Swiper integrations  
+- Full Tailwind CSS 4 source code
+- Light & dark mode presets
+- Corporate hero + CTA
+- Services & Features
+- Pricing (glassmorphism)
+- Testimonials
+- About / Story
+- Contact UI
+- Mobile navigation
+- Tailwind theming variables
+- AOS + Swiper integrations
 
 ---
 
-## 🛒 Get Sylify  
-**Ready to build your business website with a premium look?**
-
+## 🛒 Get Sylify
 <div align="center">
   <a href="https://www.templatemonster.com/website-templates/sylify-modern-multipurpose-website-templates-543980.html" target="_blank"><strong>🛒 Buy Sylify on TemplateMonster</strong></a>
 </div>
 
 ---
 
-## ❓ FAQ
-
-**Does this repository include the full code?**  
-No. This repo showcases the visual preview only.
-
-**Where can I get the full template?**  
-The complete source code is exclusively available on TemplateMonster.
-
-**Can I use Sylify for commercial projects?**  
-Yes — once purchased, it can be used in client or business projects.
-
----
-
 ## 🧩 Tech Stack
-
-- Tailwind CSS v4  
-- HTML (semantic, clean, production-ready)  
-- Dark Mode & Variable Theming  
-- Google Fonts — Inter  
-- AOS Animations  
-- Swiper Slider (optional)  
+- Tailwind CSS v4
+- HTML (semantic, clean)
+- Dark Mode & Variable Theming
+- Google Fonts — Inter
+- AOS Animations
+- SwiperJS
 
 ---
 
-## License  
-This repository contains **no source code**.  
-All full content is licensed and distributed only through TemplateMonster.
+## GitHub Repo Tags (for better visibility)
+You can add these as **Topics** in your GitHub repo settings:
+
+`tailwind` `tailwindcss` `template` `website-template` `business-template` `saas-template` `landing-page` `corporate-ui` `html-template` `dark-mode` `ui-kit`
+
+> Yes — GitHub *memang punya tags*, namanya **Topics**, dan ini sangat meningkatkan exposure.
+
+---
+
+## License
+This repository contains **preview assets only**.  
+Full licensed source code is distributed only through TemplateMonster.
 
 ---
 
