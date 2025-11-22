@@ -15,8 +15,8 @@ Modern. Elegant. Enterprise‑Ready.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/frontsyl/sylify?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/frontsyl/sylify?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/syalomclubby/sylify-template?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/syalomclubby/sylify-template?style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Preview%20Only-lightgrey?style=flat-square" />
 </p>
