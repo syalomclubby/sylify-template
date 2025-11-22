@@ -135,12 +135,9 @@ Sylify gives you a professional website base **ready in minutes**, not weeks.
 
 ---
 
-## GitHub Repo Tags (for better visibility)
-You can add these as **Topics** in your GitHub repo settings:
+## GitHub Topics
 
 `tailwind` `tailwindcss` `template` `website-template` `business-template` `saas-template` `landing-page` `corporate-ui` `html-template` `dark-mode` `ui-kit`
-
-> Yes — GitHub *memang punya tags*, namanya **Topics**, dan ini sangat meningkatkan exposure.
 
 ---
 
