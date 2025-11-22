@@ -21,7 +21,10 @@ Built for agencies, SaaS, startups, and enterprises, Sylify focuses on:
 - 100vh premium hero sections  
 - modern blue/white corporate aesthetic  
 - clean layout hierarchy  
-- dark mode elegance  
+- dark mode elegance
+
+📦 What You Get
+> 5 complete websites in 1 package, each available in 6 professional color themes.
 
 If you need a **high-end business website** without hiring designers or frontend developers, Sylify gives you a ready-made, production-grade solution.
 
@@ -44,22 +47,22 @@ If you need a **high-end business website** without hiring designers or frontend
 ## 📸 Template Previews  
 *A visual-first template designed with premium clarity.*
 
-### **Homepage**
+### **Hero Section – Premium SaaS Dashboard Layout**
 <img src="./preview/sylify-screenshot-1.png" width="100%" />
 
 ---
 
-### **About / Company Profile**
+### **Pricing Section – Glassmorphism Cards**
 <img src="./preview/sylify-screenshot-3.png" width="100%" />
 
 ---
 
-### **Services / Solutions**
+### **Business Hero – Corporate Landing Layout**
 <img src="./preview/sylify-screenshot-4.png" width="100%" />
 
 ---
 
-### **Pricing (Glassmorphism Variant)**
+### **Contact Section – Clean & Minimal Interaction UI**
 <img src="./preview/sylify-screenshot-5.png" width="100%" />
 
 > Note: This repository contains **visual previews only**.  
